@@ -1,4 +1,4 @@
-devicehive-connector
-====================
+SiteWhere DeviceHive Cloud Connector
+====================================
 
-Mule connector that allows SiteWhere to interact with DeviceHive for event processing.
+SiteWhere cloud connector for interacting with DeviceHive
